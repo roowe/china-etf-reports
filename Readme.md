@@ -1,0 +1,1137 @@
+原文链接：[https://mp.weixin.qq.com/s/R4OQTWUHT91e7Hfwavtq8g](https://mp.weixin.qq.com/s/R4OQTWUHT91e7Hfwavtq8g)
+
+欢迎大家关注我的公众号，“momo感悟”，谢谢。
+
+
+
+---
+
+大家好！今天我们用一分钟时间，快速梳理市场最新动态。
+
+### 市场整体态势（截至2025年9月26日）
+
+**宽基指数表现**：主要宽基指数普遍回调，科创50ETF、双创ETF、创业板ETF等科技类指数跌幅较大，分别下跌1.6%、1.9%、2.6%。沪深300ETF、中证500ETF等大盘指数相对抗跌，跌幅在1%以内。多数指数仍处于中长期均线上方，显示整体趋势仍偏强。
+
+**行业板块分化**：科技板块出现明显回调，芯片、半导体、人工智能、5G通信等ETF普遍下跌2-4%。新能源板块表现相对稳健，光伏ETF仅下跌1.1%。传统周期板块中，有色金属、煤炭等表现相对较好。消费板块继续承压，食品饮料、白酒等ETF创出新低。
+
+**港股市场**：恒生科技、恒生互联网等科技类ETF下跌1.5-2.5%，但整体仍处于上升趋势中。港股金融板块出现反弹，港股通金融ETF上涨1.4%。
+
+**美股市场**：纳指科技ETF微涨0.3%，标普500ETF、纳斯达克ETF小幅回调，整体仍处于历史高位附近。
+
+**其他资产**：贵金属表现亮眼，国投白银LOF大涨2.2%，黄金ETF微涨0.2%。债券市场相对平稳，可转债ETF小幅回调。
+
+
+
+---
+
+### 📊 详细数据总览（建议横屏查看👇）
+
+> **点评说明**：表格中红色表示上涨偏离，绿色表示下跌偏离。AI点评中"up"表示上涨趋势，"down"表示下跌趋势，"sideways"表示震荡。"hold"表示建议持有，"trim"表示建议减仓。
+> **MA5偏离**：当前价格/5日均线的价格-1，即大于0，在均线上，小于0，在均线下。其它以此类推。
+
+
+#### 🏛️ 宽基指数
+
+<table class="mobile-table">
+  <thead>
+    <tr>
+      <th>ETF</th>
+      <th>涨跌幅</th>
+      <th>AI点评</th>
+      <th>20日</th>
+      <th>MA5偏离</th>
+      <th>MA20偏离</th>
+      <th>MA60偏离</th>
+      <th>MA250偏离</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>科创50ETF(588000.SH)</strong></td>
+      <td><span style="color: green;">-1.6%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.8%</span></td>
+      <td><span style="color: red;">7.8%</span></td>
+      <td><span style="color: red;">23.9%</span></td>
+      <td><span style="color: red;">40.1%</span></td>
+    </tr>
+    <tr>
+      <td><strong>双创ETF(159780.SZ)</strong></td>
+      <td><span style="color: green;">-1.9%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.6%</span></td>
+      <td><span style="color: red;">6.7%</span></td>
+      <td><span style="color: red;">28.6%</span></td>
+      <td><span style="color: red;">54.1%</span></td>
+    </tr>
+    <tr>
+      <td><strong>创业板ETF(159915.SZ)</strong></td>
+      <td><span style="color: green;">-2.6%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.2%</span></td>
+      <td><span style="color: red;">4.3%</span></td>
+      <td><span style="color: red;">20.6%</span></td>
+      <td><span style="color: red;">42.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>深证100ETF(159901.SZ)</strong></td>
+      <td><span style="color: green;">-1.8%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: red;">3.1%</span></td>
+      <td><span style="color: red;">13.0%</span></td>
+      <td><span style="color: red;">24.9%</span></td>
+    </tr>
+    <tr>
+      <td><strong>科创100指数ETF(588030.SH)</strong></td>
+      <td><span style="color: green;">-1.9%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.6%</span></td>
+      <td><span style="color: red;">2.8%</span></td>
+      <td><span style="color: red;">14.1%</span></td>
+      <td><span style="color: red;">35.9%</span></td>
+    </tr>
+    <tr>
+      <td><strong>A50ETF(159601.SZ)</strong></td>
+      <td><span style="color: green;">-1.5%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td><span style="color: red;">2.1%</span></td>
+      <td><span style="color: red;">10.6%</span></td>
+      <td><span style="color: red;">21.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>中证500ETF(510500.SH)</strong></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td><span style="color: red;">2.1%</span></td>
+      <td><span style="color: red;">9.6%</span></td>
+      <td><span style="color: red;">22.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>A50ETF基金(159592.SZ)</strong></td>
+      <td><span style="color: green;">-1.0%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">0.1%</span></td>
+      <td><span style="color: red;">1.6%</span></td>
+      <td><span style="color: red;">6.7%</span></td>
+      <td><span style="color: red;">14.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>创业板成长ETF(159967.SZ)</strong></td>
+      <td><span style="color: green;">-2.9%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td><span style="color: red;">1.4%</span></td>
+      <td><span style="color: red;">13.1%</span></td>
+      <td><span style="color: red;">28.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>800ETF(515800.SH)</strong></td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: red;">1.3%</span></td>
+      <td><span style="color: red;">7.3%</span></td>
+      <td><span style="color: red;">17.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>沪深300ETF(510300.SH)</strong></td>
+      <td><span style="color: green;">-0.9%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">0.0%</span></td>
+      <td><span style="color: red;">1.1%</span></td>
+      <td><span style="color: red;">6.7%</span></td>
+      <td><span style="color: red;">16.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>价值100ETF(512040.SH)</strong></td>
+      <td><span style="color: green;">0.0%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">0.3%</span></td>
+      <td><span style="color: red;">0.7%</span></td>
+      <td><span style="color: red;">4.5%</span></td>
+      <td><span style="color: red;">12.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>中证1000ETF(512100.SH)</strong></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.9%</span></td>
+      <td><span style="color: red;">0.4%</span></td>
+      <td><span style="color: red;">5.5%</span></td>
+      <td><span style="color: red;">18.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>上证50ETF(510050.SH)</strong></td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td>up-hold</td>
+      <td>新低</td>
+      <td><span style="color: red;">0.3%</span></td>
+      <td><span style="color: green;">-0.0%</span></td>
+      <td><span style="color: red;">3.2%</span></td>
+      <td><span style="color: red;">10.7%</span></td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 🏭 国内行业板块
+
+<table class="mobile-table">
+  <thead>
+    <tr>
+      <th>ETF</th>
+      <th>涨跌幅</th>
+      <th>AI点评</th>
+      <th>20日</th>
+      <th>MA5偏离</th>
+      <th>MA20偏离</th>
+      <th>MA60偏离</th>
+      <th>MA250偏离</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>科创芯片ETF(588200.SH)</strong></td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.1%</span></td>
+      <td><span style="color: red;">11.8%</span></td>
+      <td><span style="color: red;">32.2%</span></td>
+      <td><span style="color: red;">57.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>芯片ETF(512760.SH)</strong></td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.2%</span></td>
+      <td><span style="color: red;">10.6%</span></td>
+      <td><span style="color: red;">27.5%</span></td>
+      <td><span style="color: red;">45.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>芯片ETF(159995.SZ)</strong></td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.1%</span></td>
+      <td><span style="color: red;">10.4%</span></td>
+      <td><span style="color: red;">28.2%</span></td>
+      <td><span style="color: red;">45.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>半导体ETF(512480.SH)</strong></td>
+      <td><span style="color: green;">-1.5%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.0%</span></td>
+      <td><span style="color: red;">10.2%</span></td>
+      <td><span style="color: red;">26.2%</span></td>
+      <td><span style="color: red;">43.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>电池50ETF(159796.SZ)</strong></td>
+      <td><span style="color: green;">-1.8%</span></td>
+      <td>up-trim</td>
+      <td>--</td>
+      <td><span style="color: red;">1.1%</span></td>
+      <td><span style="color: red;">9.3%</span></td>
+      <td><span style="color: red;">33.3%</span></td>
+      <td><span style="color: red;">53.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>中韩半导体ETF(513310.SH)</strong></td>
+      <td><span style="color: green;">-2.9%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.5%</span></td>
+      <td><span style="color: red;">8.3%</span></td>
+      <td><span style="color: red;">22.2%</span></td>
+      <td><span style="color: red;">42.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>电池ETF(159755.SZ)</strong></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td>up-trim</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.0%</span></td>
+      <td><span style="color: red;">7.9%</span></td>
+      <td><span style="color: red;">26.2%</span></td>
+      <td><span style="color: red;">45.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>新能源车电池ETF(159775.SZ)</strong></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.1%</span></td>
+      <td><span style="color: red;">7.4%</span></td>
+      <td><span style="color: red;">25.8%</span></td>
+      <td><span style="color: red;">44.4%</span></td>
+    </tr>
+    <tr>
+      <td><strong>信息技术ETF(159939.SZ)</strong></td>
+      <td><span style="color: green;">-3.1%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.0%</span></td>
+      <td><span style="color: red;">6.9%</span></td>
+      <td><span style="color: red;">21.3%</span></td>
+      <td><span style="color: red;">40.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>消费电子ETF(561600.SH)</strong></td>
+      <td><span style="color: green;">-3.6%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.7%</span></td>
+      <td><span style="color: red;">6.8%</span></td>
+      <td><span style="color: red;">25.7%</span></td>
+      <td><span style="color: red;">47.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>新能源ETF(516160.SH)</strong></td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.9%</span></td>
+      <td><span style="color: red;">6.4%</span></td>
+      <td><span style="color: red;">21.3%</span></td>
+      <td><span style="color: red;">34.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>消费电子ETF(159732.SZ)</strong></td>
+      <td><span style="color: green;">-3.4%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.9%</span></td>
+      <td><span style="color: red;">5.9%</span></td>
+      <td><span style="color: red;">20.2%</span></td>
+      <td><span style="color: red;">37.4%</span></td>
+    </tr>
+    <tr>
+      <td><strong>科技ETF(515000.SH)</strong></td>
+      <td><span style="color: green;">-2.5%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td><span style="color: red;">5.3%</span></td>
+      <td><span style="color: red;">21.3%</span></td>
+      <td><span style="color: red;">45.9%</span></td>
+    </tr>
+    <tr>
+      <td><strong>人工智能ETF(515980.SH)</strong></td>
+      <td><span style="color: green;">-3.7%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td><span style="color: red;">5.3%</span></td>
+      <td><span style="color: red;">29.0%</span></td>
+      <td><span style="color: red;">65.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>5G通信ETF(515050.SH)</strong></td>
+      <td><span style="color: green;">-3.8%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-2.0%</span></td>
+      <td><span style="color: red;">5.0%</span></td>
+      <td><span style="color: red;">29.0%</span></td>
+      <td><span style="color: red;">70.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>人工智能ETF(159819.SZ)</strong></td>
+      <td><span style="color: green;">-3.3%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.4%</span></td>
+      <td><span style="color: red;">4.5%</span></td>
+      <td><span style="color: red;">24.0%</span></td>
+      <td><span style="color: red;">53.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>光伏ETF(515790.SH)</strong></td>
+      <td><span style="color: green;">-1.1%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.7%</span></td>
+      <td><span style="color: red;">4.0%</span></td>
+      <td><span style="color: red;">16.0%</span></td>
+      <td><span style="color: red;">22.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>通信ETF(515880.SH)</strong></td>
+      <td><span style="color: green;">-3.0%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td><span style="color: red;">3.7%</span></td>
+      <td><span style="color: red;">29.5%</span></td>
+      <td><span style="color: red;">79.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>大数据ETF(515400.SH)</strong></td>
+      <td><span style="color: green;">-4.0%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.6%</span></td>
+      <td><span style="color: red;">3.6%</span></td>
+      <td><span style="color: red;">10.0%</span></td>
+      <td><span style="color: red;">19.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>游戏ETF(159869.SZ)</strong></td>
+      <td><span style="color: green;">-4.1%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td><span style="color: red;">3.5%</span></td>
+      <td><span style="color: red;">13.6%</span></td>
+      <td><span style="color: red;">37.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>计算机ETF(159998.SZ)</strong></td>
+      <td><span style="color: green;">-3.8%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td><span style="color: red;">3.1%</span></td>
+      <td><span style="color: red;">9.6%</span></td>
+      <td><span style="color: red;">18.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>云计算ETF(516510.SH)</strong></td>
+      <td><span style="color: green;">-3.9%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td><span style="color: red;">2.8%</span></td>
+      <td><span style="color: red;">15.4%</span></td>
+      <td><span style="color: red;">37.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>信创ETF(562570.SH)</strong></td>
+      <td><span style="color: green;">-3.6%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.6%</span></td>
+      <td><span style="color: red;">2.4%</span></td>
+      <td><span style="color: red;">7.5%</span></td>
+      <td><span style="color: red;">16.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>工业母机ETF(159667.SZ)</strong></td>
+      <td><span style="color: green;">-3.5%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td><span style="color: red;">2.4%</span></td>
+      <td><span style="color: red;">14.3%</span></td>
+      <td><span style="color: red;">35.1%</span></td>
+    </tr>
+    <tr>
+      <td><strong>房地产ETF(512200.SH)</strong></td>
+      <td><span style="color: red;">0.2%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.3%</span></td>
+      <td><span style="color: red;">2.3%</span></td>
+      <td><span style="color: red;">7.0%</span></td>
+      <td><span style="color: red;">9.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>黄金股ETF(517520.SH)</strong></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: red;">2.3%</span></td>
+      <td><span style="color: red;">16.3%</span></td>
+      <td><span style="color: red;">40.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>机器人ETF(562500.SH)</strong></td>
+      <td><span style="color: green;">-3.3%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.5%</span></td>
+      <td><span style="color: red;">2.1%</span></td>
+      <td><span style="color: red;">11.1%</span></td>
+      <td><span style="color: red;">24.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>有色金属ETF(512400.SH)</strong></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.5%</span></td>
+      <td><span style="color: red;">2.1%</span></td>
+      <td><span style="color: red;">14.0%</span></td>
+      <td><span style="color: red;">37.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>机器人50ETF(159559.SZ)</strong></td>
+      <td><span style="color: green;">-3.1%</span></td>
+      <td>down-trim</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.7%</span></td>
+      <td><span style="color: red;">1.8%</span></td>
+      <td><span style="color: red;">10.9%</span></td>
+      <td><span style="color: red;">26.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>传媒ETF(512980.SH)</strong></td>
+      <td><span style="color: green;">-3.5%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td><span style="color: red;">1.6%</span></td>
+      <td><span style="color: red;">10.4%</span></td>
+      <td><span style="color: red;">25.4%</span></td>
+    </tr>
+    <tr>
+      <td><strong>有色ETF(159980.SZ)</strong></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.0%</span></td>
+      <td><span style="color: red;">1.3%</span></td>
+      <td><span style="color: red;">2.1%</span></td>
+      <td><span style="color: red;">3.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>军工龙头ETF(512710.SH)</strong></td>
+      <td><span style="color: red;">0.9%</span></td>
+      <td>sideways-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.6%</span></td>
+      <td><span style="color: red;">1.2%</span></td>
+      <td><span style="color: green;">-1.1%</span></td>
+      <td><span style="color: red;">8.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>煤炭ETF(515220.SH)</strong></td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td>sideways-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td><span style="color: red;">1.0%</span></td>
+      <td><span style="color: red;">1.0%</span></td>
+      <td><span style="color: red;">1.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>国防ETF(512670.SH)</strong></td>
+      <td><span style="color: red;">0.5%</span></td>
+      <td>sideways-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.3%</span></td>
+      <td><span style="color: red;">1.0%</span></td>
+      <td><span style="color: green;">-0.9%</span></td>
+      <td><span style="color: red;">10.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>工业有色ETF(560860.SH)</strong></td>
+      <td><span style="color: green;">0.0%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">1.6%</span></td>
+      <td><span style="color: red;">0.7%</span></td>
+      <td><span style="color: red;">13.1%</span></td>
+      <td><span style="color: red;">38.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>家电ETF(159996.SZ)</strong></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.1%</span></td>
+      <td><span style="color: red;">0.4%</span></td>
+      <td><span style="color: red;">4.8%</span></td>
+      <td><span style="color: red;">11.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>教育ETF(513360.SH)</strong></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td>sideways-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td><span style="color: red;">0.2%</span></td>
+      <td><span style="color: red;">2.3%</span></td>
+      <td><span style="color: red;">6.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>化工ETF(159870.SZ)</strong></td>
+      <td><span style="color: red;">0.4%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.7%</span></td>
+      <td><span style="color: red;">0.2%</span></td>
+      <td><span style="color: red;">7.6%</span></td>
+      <td><span style="color: red;">17.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>能源化工ETF(159981.SZ)</strong></td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td>down-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">0.6%</span></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: green;">-2.2%</span></td>
+      <td><span style="color: green;">-5.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>稀有金属ETF(562800.SH)</strong></td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">1.1%</span></td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td><span style="color: red;">10.3%</span></td>
+      <td><span style="color: red;">36.2%</span></td>
+    </tr>
+    <tr>
+      <td><strong>军工ETF(512660.SH)</strong></td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td>sideways-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.2%</span></td>
+      <td><span style="color: green;">-0.4%</span></td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td><span style="color: red;">11.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>软件ETF(159852.SZ)</strong></td>
+      <td><span style="color: green;">-3.8%</span></td>
+      <td>sideways-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.5%</span></td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td><span style="color: red;">4.0%</span></td>
+      <td><span style="color: red;">12.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>钢铁ETF(515210.SH)</strong></td>
+      <td><span style="color: red;">0.3%</span></td>
+      <td>sideways-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.5%</span></td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td><span style="color: green;">-0.6%</span></td>
+      <td><span style="color: red;">11.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>电力ETF(159611.SZ)</strong></td>
+      <td><span style="color: red;">0.7%</span></td>
+      <td>up-hold</td>
+      <td>新低</td>
+      <td><span style="color: red;">0.4%</span></td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td><span style="color: red;">0.0%</span></td>
+      <td><span style="color: red;">2.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>养殖ETF(159865.SZ)</strong></td>
+      <td><span style="color: red;">0.2%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td><span style="color: red;">1.4%</span></td>
+      <td><span style="color: red;">9.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>农业ETF(159825.SZ)</strong></td>
+      <td><span style="color: red;">0.1%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.0%</span></td>
+      <td><span style="color: green;">-1.3%</span></td>
+      <td><span style="color: red;">3.0%</span></td>
+      <td><span style="color: red;">14.2%</span></td>
+    </tr>
+    <tr>
+      <td><strong>红利ETF(510880.SH)</strong></td>
+      <td><span style="color: red;">0.0%</span></td>
+      <td>down-trim</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td><span style="color: green;">-3.6%</span></td>
+      <td><span style="color: green;">-0.4%</span></td>
+    </tr>
+    <tr>
+      <td><strong>稀土ETF嘉实(516150.SH)</strong></td>
+      <td><span style="color: green;">-1.1%</span></td>
+      <td>down-trim</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.4%</span></td>
+      <td><span style="color: green;">-1.6%</span></td>
+      <td><span style="color: red;">9.8%</span></td>
+      <td><span style="color: red;">41.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>消费50ETF(515650.SH)</strong></td>
+      <td><span style="color: red;">0.1%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td><span style="color: green;">-1.8%</span></td>
+      <td><span style="color: red;">0.7%</span></td>
+      <td><span style="color: red;">2.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>医药ETF(512010.SH)</strong></td>
+      <td><span style="color: green;">-2.3%</span></td>
+      <td>up-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td><span style="color: green;">-2.0%</span></td>
+      <td><span style="color: red;">3.9%</span></td>
+      <td><span style="color: red;">14.9%</span></td>
+    </tr>
+    <tr>
+      <td><strong>旅游ETF(159766.SZ)</strong></td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-1.6%</span></td>
+      <td><span style="color: green;">-2.4%</span></td>
+      <td><span style="color: red;">1.3%</span></td>
+      <td><span style="color: red;">3.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>证券ETF(512880.SH)</strong></td>
+      <td><span style="color: green;">-0.4%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td><span style="color: green;">-2.5%</span></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td><span style="color: red;">6.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>创新药ETF富国(159748.SZ)</strong></td>
+      <td><span style="color: green;">-1.9%</span></td>
+      <td>up-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-1.1%</span></td>
+      <td><span style="color: green;">-2.6%</span></td>
+      <td><span style="color: red;">4.4%</span></td>
+      <td><span style="color: red;">34.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>证券保险ETF(512070.SH)</strong></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.0%</span></td>
+      <td><span style="color: green;">-2.7%</span></td>
+      <td><span style="color: green;">-2.8%</span></td>
+      <td><span style="color: red;">5.4%</span></td>
+    </tr>
+    <tr>
+      <td><strong>生物科技ETF(159837.SZ)</strong></td>
+      <td><span style="color: green;">-2.1%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-1.0%</span></td>
+      <td><span style="color: green;">-2.7%</span></td>
+      <td><span style="color: red;">2.6%</span></td>
+      <td><span style="color: red;">17.4%</span></td>
+    </tr>
+    <tr>
+      <td><strong>中药ETF(560080.SH)</strong></td>
+      <td><span style="color: green;">-0.4%</span></td>
+      <td>down-trim</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td><span style="color: green;">-2.9%</span></td>
+      <td><span style="color: green;">-3.5%</span></td>
+      <td><span style="color: green;">-0.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>消费ETF(159928.SZ)</strong></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td><span style="color: green;">-3.0%</span></td>
+      <td><span style="color: red;">0.1%</span></td>
+      <td><span style="color: red;">2.4%</span></td>
+    </tr>
+    <tr>
+      <td><strong>银行ETF(512800.SH)</strong></td>
+      <td><span style="color: red;">0.1%</span></td>
+      <td>down-trim</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: green;">-3.0%</span></td>
+      <td><span style="color: green;">-7.0%</span></td>
+      <td><span style="color: red;">2.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>金融科技ETF(159851.SZ)</strong></td>
+      <td><span style="color: green;">-2.4%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-1.8%</span></td>
+      <td><span style="color: green;">-3.1%</span></td>
+      <td><span style="color: red;">0.0%</span></td>
+      <td><span style="color: red;">18.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>食品饮料ETF(515170.SH)</strong></td>
+      <td><span style="color: green;">-0.2%</span></td>
+      <td>down-trim</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.6%</span></td>
+      <td><span style="color: green;">-3.5%</span></td>
+      <td><span style="color: green;">-1.5%</span></td>
+      <td><span style="color: green;">-1.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>酒ETF(512690.SH)</strong></td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td><span style="color: green;">-4.4%</span></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td><span style="color: green;">-3.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>白酒基金LOF(161725.SZ)</strong></td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td><span style="color: green;">-4.4%</span></td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td><span style="color: green;">-2.9%</span></td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 🌏 港股市场
+
+<table class="mobile-table">
+  <thead>
+    <tr>
+      <th>ETF</th>
+      <th>涨跌幅</th>
+      <th>AI点评</th>
+      <th>20日</th>
+      <th>MA5偏离</th>
+      <th>MA20偏离</th>
+      <th>MA60偏离</th>
+      <th>MA250偏离</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>恒生互联网ETF(513330.SH)</strong></td>
+      <td><span style="color: green;">-2.1%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td><span style="color: red;">4.8%</span></td>
+      <td><span style="color: red;">10.9%</span></td>
+      <td><span style="color: red;">24.1%</span></td>
+    </tr>
+    <tr>
+      <td><strong>恒生科技ETF(513130.SH)</strong></td>
+      <td><span style="color: green;">-1.5%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.1%</span></td>
+      <td><span style="color: red;">4.5%</span></td>
+      <td><span style="color: red;">10.3%</span></td>
+      <td><span style="color: red;">22.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>中概互联网ETF(513050.SH)</strong></td>
+      <td><span style="color: green;">-1.8%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.2%</span></td>
+      <td><span style="color: red;">4.4%</span></td>
+      <td><span style="color: red;">13.0%</span></td>
+      <td><span style="color: red;">26.0%</span></td>
+    </tr>
+    <tr>
+      <td><strong>港股通互联网ETF(159792.SZ)</strong></td>
+      <td><span style="color: green;">-2.5%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td><span style="color: red;">2.6%</span></td>
+      <td><span style="color: red;">8.6%</span></td>
+      <td><span style="color: red;">26.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>H股ETF(510900.SH)</strong></td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: red;">0.0%</span></td>
+      <td><span style="color: red;">1.1%</span></td>
+      <td><span style="color: red;">3.6%</span></td>
+      <td><span style="color: red;">15.2%</span></td>
+    </tr>
+    <tr>
+      <td><strong>港股央企红利ETF(513910.SH)</strong></td>
+      <td><span style="color: red;">0.6%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.2%</span></td>
+      <td><span style="color: green;">-1.8%</span></td>
+      <td><span style="color: green;">-1.8%</span></td>
+      <td><span style="color: red;">11.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>港股通金融ETF(513190.SH)</strong></td>
+      <td><span style="color: red;">1.4%</span></td>
+      <td>down-trim</td>
+      <td>新低</td>
+      <td><span style="color: red;">0.2%</span></td>
+      <td><span style="color: green;">-2.7%</span></td>
+      <td><span style="color: green;">-4.4%</span></td>
+      <td><span style="color: red;">10.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>恒生医疗ETF(513060.SH)</strong></td>
+      <td><span style="color: green;">-1.9%</span></td>
+      <td>up-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-1.7%</span></td>
+      <td><span style="color: green;">-3.0%</span></td>
+      <td><span style="color: red;">3.4%</span></td>
+      <td><span style="color: red;">41.9%</span></td>
+    </tr>
+    <tr>
+      <td><strong>港股创新药ETF(513120.SH)</strong></td>
+      <td><span style="color: green;">-1.6%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td><span style="color: green;">-3.3%</span></td>
+      <td><span style="color: red;">2.6%</span></td>
+      <td><span style="color: red;">49.2%</span></td>
+    </tr>
+    <tr>
+      <td><strong>香港证券ETF(513090.SH)</strong></td>
+      <td><span style="color: green;">0.0%</span></td>
+      <td>down-trim</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.9%</span></td>
+      <td><span style="color: green;">-4.0%</span></td>
+      <td><span style="color: green;">-3.9%</span></td>
+      <td><span style="color: red;">27.6%</span></td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 🌏 美股市场
+
+<table class="mobile-table">
+  <thead>
+    <tr>
+      <th>ETF</th>
+      <th>涨跌幅</th>
+      <th>AI点评</th>
+      <th>20日</th>
+      <th>MA5偏离</th>
+      <th>MA20偏离</th>
+      <th>MA60偏离</th>
+      <th>MA250偏离</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>纳指科技ETF(159509.SZ)</strong></td>
+      <td><span style="color: red;">0.3%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">0.0%</span></td>
+      <td><span style="color: red;">5.5%</span></td>
+      <td><span style="color: red;">10.4%</span></td>
+      <td><span style="color: red;">26.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>纳斯达克ETF(513300.SH)</strong></td>
+      <td><span style="color: green;">-0.3%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: green;">-0.4%</span></td>
+      <td><span style="color: red;">2.1%</span></td>
+      <td><span style="color: red;">3.9%</span></td>
+      <td><span style="color: red;">10.9%</span></td>
+    </tr>
+    <tr>
+      <td><strong>标普500ETF(513500.SH)</strong></td>
+      <td><span style="color: green;">-0.2%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: green;">-0.4%</span></td>
+      <td><span style="color: red;">1.7%</span></td>
+      <td><span style="color: red;">3.6%</span></td>
+      <td><span style="color: red;">8.7%</span></td>
+    </tr>
+    <tr>
+      <td><strong>美国50ETF(513850.SH)</strong></td>
+      <td><span style="color: green;">-0.2%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-0.6%</span></td>
+      <td><span style="color: red;">1.7%</span></td>
+      <td><span style="color: red;">4.5%</span></td>
+      <td><span style="color: red;">12.9%</span></td>
+    </tr>
+    <tr>
+      <td><strong>标普消费ETF(159529.SZ)</strong></td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td>down-trim</td>
+      <td>新高</td>
+      <td><span style="color: green;">-0.0%</span></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: green;">-3.9%</span></td>
+      <td><span style="color: green;">-3.1%</span></td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 🌍 其他资产
+
+<table class="mobile-table">
+  <thead>
+    <tr>
+      <th>ETF</th>
+      <th>涨跌幅</th>
+      <th>AI点评</th>
+      <th>20日</th>
+      <th>MA5偏离</th>
+      <th>MA20偏离</th>
+      <th>MA60偏离</th>
+      <th>MA250偏离</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>国投白银LOF(161226.SZ)</strong></td>
+      <td><span style="color: red;">2.2%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">1.5%</span></td>
+      <td><span style="color: red;">5.8%</span></td>
+      <td><span style="color: red;">11.9%</span></td>
+      <td><span style="color: red;">24.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>黄金ETF(518880.SH)</strong></td>
+      <td><span style="color: red;">0.2%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">0.3%</span></td>
+      <td><span style="color: red;">2.9%</span></td>
+      <td><span style="color: red;">7.5%</span></td>
+      <td><span style="color: red;">19.8%</span></td>
+    </tr>
+    <tr>
+      <td><strong>日经ETF(513520.SH)</strong></td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td>up-hold</td>
+      <td>--</td>
+      <td><span style="color: green;">-1.4%</span></td>
+      <td><span style="color: red;">1.0%</span></td>
+      <td><span style="color: red;">4.9%</span></td>
+      <td><span style="color: red;">12.9%</span></td>
+    </tr>
+    <tr>
+      <td><strong>可转债ETF(511380.SH)</strong></td>
+      <td><span style="color: green;">-0.4%</span></td>
+      <td>up-hold</td>
+      <td>新高</td>
+      <td><span style="color: red;">0.4%</span></td>
+      <td><span style="color: red;">0.4%</span></td>
+      <td><span style="color: red;">1.6%</span></td>
+      <td><span style="color: red;">10.3%</span></td>
+    </tr>
+    <tr>
+      <td><strong>国开ETF(159650.SZ)</strong></td>
+      <td><span style="color: red;">0.0%</span></td>
+      <td>sideways-hold</td>
+      <td>新高</td>
+      <td><span style="color: green;">-0.0%</span></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: green;">-0.1%</span></td>
+      <td><span style="color: red;">0.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>印度基金LOF(164824.SZ)</strong></td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td><span style="color: green;">-0.8%</span></td>
+      <td><span style="color: green;">-2.0%</span></td>
+      <td><span style="color: green;">-2.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>德国ETF(159561.SZ)</strong></td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td>sideways-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td><span style="color: green;">-0.9%</span></td>
+      <td><span style="color: green;">-2.3%</span></td>
+      <td><span style="color: red;">8.5%</span></td>
+    </tr>
+    <tr>
+      <td><strong>30年国债ETF(511090.SH)</strong></td>
+      <td><span style="color: green;">-0.0%</span></td>
+      <td>down-hold</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.2%</span></td>
+      <td><span style="color: green;">-1.2%</span></td>
+      <td><span style="color: green;">-3.2%</span></td>
+      <td><span style="color: green;">-2.6%</span></td>
+    </tr>
+    <tr>
+      <td><strong>豆粕ETF(159985.SZ)</strong></td>
+      <td><span style="color: green;">-0.7%</span></td>
+      <td>down-trim</td>
+      <td>新低</td>
+      <td><span style="color: green;">-0.5%</span></td>
+      <td><span style="color: green;">-2.0%</span></td>
+      <td><span style="color: green;">-1.5%</span></td>
+      <td><span style="color: red;">0.8%</span></td>
+    </tr>
+  </tbody>
+</table>
+
+
+> **⚠️ 免责声明**：本文仅为个人对市场的观察和思考，所有数据和观点均不构成任何投资建议。市场有风险，投资需谨慎。
+
+#ETF日报  #今日行情  
+
+—— 完 ——
