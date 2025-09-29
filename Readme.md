@@ -26,62 +26,6 @@
 > **点评说明**：表格中红色表示上涨偏离，绿色表示下跌偏离。AI点评中"U"表示上涨趋势（up），"D"表示下跌趋势（down），"S"表示震荡（sideways）。long表示买入、add表示加仓、hold表示持有、trim表示减仓、exit表示清仓、wait表示观望。
 > **MA5B**：B是bias的缩写，表示MA5偏离度，当前价格/5日均线的价格-1，即大于0，在均线上，小于0，在均线下。其它以此类推。
 
-<style>
-  .mobile-table {
-    font-size: 12px;
-    width: 100%;
-    border-collapse: collapse;
-    overflow-x: auto;
-    display: block;
-    white-space: nowrap;
-  }
-  
-  .mobile-table thead,
-  .mobile-table tbody,
-  .mobile-table tr {
-    display: table;
-    width: 100%;
-    table-layout: fixed;
-  }
-  
-  .mobile-table th,
-  .mobile-table td {
-    padding: 4px 2px;
-    text-align: center;
-    border: 1px solid #ddd;
-    font-size: 11px;
-  }
-  
-  .mobile-table th:first-child,
-  .mobile-table td:first-child {
-    width: 35%;
-    text-align: left;
-    font-size: 10px;
-  }
-  
-  .mobile-table th:not(:first-child),
-  .mobile-table td:not(:first-child) {
-    width: 9%;  /* 从13%调整为9% */
-  }
-  
-  @media (max-width: 768px) {
-    .mobile-table {
-      font-size: 10px;
-    }
-    
-    .mobile-table th,
-    .mobile-table td {
-      padding: 2px 1px;
-      font-size: 9px;
-    }
-    
-    .mobile-table th:first-child,
-    .mobile-table td:first-child {
-      font-size: 8px;
-    }
-  }
-</style>
-
 #### 🏛️ 宽基指数
 
 <table class="mobile-table">
